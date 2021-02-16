@@ -9,6 +9,7 @@ Improvements 🙌:
  - Improve room profile UX
  - Upgrade Jitsi library from 2.9.3 to 3.1.0
  - a11y improvements
+ - Improve initial sync performance (#983)
 
 Bugfix 🐛:
  - VoIP : fix audio devices output
@@ -68,7 +69,6 @@ Improvements 🙌:
  - SSO support for cross signing (#1062)
  - Deactivate account when logged in with SSO (#1264)
  - SSO UIA doesn't work (#2754)
- - Improve initial sync performance (#983)
 
 Bugfix 🐛:
  - Fix clear cache issue: sometimes, after a clear cache, there is still a token, so the init sync service is not started.
