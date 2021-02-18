@@ -22,7 +22,7 @@ SDK API changes ⚠️:
  - 
 
 Build 🧱:
- -
+ - Add a script to download and install APK from the CI
 
 Test:
  -
